@@ -13,16 +13,15 @@ return [
     'popper' => [
         'active' => true,
         'mode' => 'cdn',
-        'cdn' => 'https://unpkg.com/popper.js@1',
+        'cdn' => 'https://unpkg.com/@popperjs/core@2',
         'asset' => 'vendor/laravel-popper/popper.min.js',
     ],
     'tippy' => [
         'active' => true,
         'mode' => 'cdn',
-        'cdn' => 'https://unpkg.com/tippy.js@4',
-        'asset' => 'vendor/laravel-popper/index.all.min.js',
+        'cdn' => 'https://unpkg.com/tippy.js@6',
+        'asset' => 'vendor/laravel-popper/tippy-bundle.umd.min.js',
     ],
-
     /*
      * Path location to the themes files.
      * Popper will only inject the used themes.

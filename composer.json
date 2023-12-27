@@ -1,5 +1,5 @@
 {
-    "name": "andcarpi/laravel-popper",
+    "name": "blemli/laravel-popper",
     "type": "library",
     "license": "MIT",
     "description": "A Easy to use Laravel Package, that allows you to generate tooltips in your blade views.",
